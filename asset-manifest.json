@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/%E2%80%9Chttp://asadmehdii.github.io/react-tabel/static/css/main.838a69de.chunk.css",
+    "main.js": "/%E2%80%9Chttp://asadmehdii.github.io/react-tabel/static/js/main.439663de.chunk.js",
+    "main.js.map": "/%E2%80%9Chttp://asadmehdii.github.io/react-tabel/static/js/main.439663de.chunk.js.map",
+    "runtime-main.js": "/%E2%80%9Chttp://asadmehdii.github.io/react-tabel/static/js/runtime-main.b4064227.js",
+    "runtime-main.js.map": "/%E2%80%9Chttp://asadmehdii.github.io/react-tabel/static/js/runtime-main.b4064227.js.map",
+    "static/js/2.2a4154e7.chunk.js": "/%E2%80%9Chttp://asadmehdii.github.io/react-tabel/static/js/2.2a4154e7.chunk.js",
+    "static/js/2.2a4154e7.chunk.js.map": "/%E2%80%9Chttp://asadmehdii.github.io/react-tabel/static/js/2.2a4154e7.chunk.js.map",
+    "index.html": "/%E2%80%9Chttp://asadmehdii.github.io/react-tabel/index.html",
+    "precache-manifest.c1f86bb36c06df09b319e477942145f0.js": "/%E2%80%9Chttp://asadmehdii.github.io/react-tabel/precache-manifest.c1f86bb36c06df09b319e477942145f0.js",
+    "service-worker.js": "/%E2%80%9Chttp://asadmehdii.github.io/react-tabel/service-worker.js",
+    "static/css/main.838a69de.chunk.css.map": "/%E2%80%9Chttp://asadmehdii.github.io/react-tabel/static/css/main.838a69de.chunk.css.map",
+    "static/js/2.2a4154e7.chunk.js.LICENSE.txt": "/%E2%80%9Chttp://asadmehdii.github.io/react-tabel/static/js/2.2a4154e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4064227.js",
+    "static/js/2.2a4154e7.chunk.js",
+    "static/css/main.838a69de.chunk.css",
+    "static/js/main.439663de.chunk.js"
+  ]
+}
